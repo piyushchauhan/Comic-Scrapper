@@ -9,3 +9,5 @@ A Python program to scrap things from a given URL
 There is a huge amount of data availble on the web that you is not openly available in the form of API.
 So we scrap to get that data and from that data we can do a lot of things.
 
+## Mini tasks
+- [Download XKCD Comics](https://github.com/piyushchauhan/Web-Scrapper/blob/master/Download-XKCD-Comics.py) - Downloading all XKCD comics and other also.
