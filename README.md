@@ -10,4 +10,9 @@ There is a huge amount of data availble on the web that you is not openly availa
 So we scrap to get that data and from that data we can do a lot of things.
 
 ## Mini tasks
-- [Download XKCD Comics](https://github.com/piyushchauhan/Web-Scrapper/blob/master/Download-XKCD-Comics.py) - Downloading all XKCD comics and other also.
+- [Download XKCD Comics](https://github.com/piyushchauhan/Web-Scrapper/blob/master/Download-XKCD-Comics.py) - Downloading all ~~XKCD comics~~ and other also.
+
+## Want to Contribute?
+- See [Contrubuters' Guide](https://github.com/piyushchauhan/Web-Scrapper/blob/master/CONTRIBUTING.md)  and keep checking the project board.
+
+## If you like this repo don't forget to star it :-D
